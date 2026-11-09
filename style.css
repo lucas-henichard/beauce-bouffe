@@ -1,4 +1,21 @@
 h1 {
-	color: red;
+	color: #6d7d7f;
+}
+
+a:link {
+	color: #2da5b5;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #2d7ab5;
+	font-weight: bold;
+}
+
+
+footer {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
